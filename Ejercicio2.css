@@ -1,0 +1,24 @@
+/**********************************************
+    Sara L. - UO283706
+    Descripcion de los estilos
+    Estilo para la página principal del sitio web
+**********************************************/
+body{
+    background-color: aquamarine;
+    color : black;
+}
+
+h1{
+    background-color: aquamarine;
+    color: blue;
+}
+
+h2{
+    background-color: aquamarine;
+    color:darkorchid;
+}
+
+p{
+    background-color: aquamarine;
+    color: red;
+}
